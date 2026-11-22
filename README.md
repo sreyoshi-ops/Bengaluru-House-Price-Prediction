@@ -175,26 +175,10 @@ The application will open in your default web browser.
 - Predict estimated property prices.
 - Display predicted prices in Indian Rupees.
 
-## 🔮 Future Improvements
-
-- Integrate additional regression algorithms such as XGBoost and CatBoost.
-- Improve feature engineering and outlier detection.
-- Implement advanced location-based analysis.
-- Add interactive data visualizations.
-- Deploy the application on Streamlit Community Cloud.
-- Improve model performance through advanced optimization techniques.
 
 ## 👩‍💻 Author
 
 **Sreyoshi Nath**
-
-B.Tech | Computer Science and Engineering (Artificial Intelligence & Machine Learning)
-
-**Areas of Interest:** Artificial Intelligence, Machine Learning, Data Science, and Frontend Development.
-
----
-
-⭐ If you find this project interesting, consider giving the repository a star!
 
 *This project is developed for educational and machine learning practice purposes. Predicted prices are estimates and should not be considered professional real estate valuations.*
 
